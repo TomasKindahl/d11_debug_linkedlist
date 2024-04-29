@@ -40,7 +40,7 @@
         {
             LinkedList<int> lli1 = new LinkedList<int>([2, 3, 5, 7, 11]);
             Console.WriteLine(lli1);
-            LinkedList<int> lli2 = new LinkedList<int>([]);
+            LinkedList<int> lli2 = new LinkedList<int>([0]);
             Console.WriteLine(lli2);
         }
     }
